@@ -1,4 +1,4 @@
-# **Person API**
+# **Person API - Gerenciador de pessoas em API REST com Spring Boot**
 
 Projeto desenvolvido pelo site DIO (Digital Innovation One) para formação de Java, em bootcamp para 
 a empresa GFT.
