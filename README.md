@@ -15,6 +15,6 @@ Após executar o comando acima, basta apenas abrir o seguinte endereço e visual
 
 Especificações para execução do projeto:
 
-~~~~Java 11 ou versões superiores.
-~~~~Maven 3.6.3 ou versões superiores.
-~~~~Conta no Heroku para o deploy do projeto na nuvem
+* Java 11 ou versões superiores.
+* Maven 3.6.3 ou versões superiores.
+* Conta no Heroku para o deploy do projeto na nuvem
